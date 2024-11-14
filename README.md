@@ -1,2 +1,1 @@
-# Crosshair
-python crosshair
+Choose a random Crosshair from the Web and download it into this folder. Name it crosshair and delete the standart one, but remember the standart one is better. Open convert.py and open change_setting.py choose your size and color. Start the script with crosshair.py and you are done. Hope you will get better aime becuase of this, Jimmy.
