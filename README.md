@@ -1,1 +1,19 @@
-Choose a random Crosshair from the Web and download it into this folder. Name it crosshair and delete the standart one, but remember the standart one is better. Open convert.py and open change_setting.py choose your size and color. Start the script with crosshair.py and you are done. Hope you will get better aime becuase of this, Jimmy.
+# Crosshair Customization Guide
+
+To customize your crosshair, follow these steps:
+
+1. **Choose a random crosshair** from the web and download it to this folder.  
+   - Name the file `crosshair`.  
+   - **Important**: Delete the default crosshair, but remember, the default one is better.
+
+2. **Open the script files**:
+   - Open `convert.py` and `change_setting.py`.
+   - Choose your desired size and color for the crosshair.
+
+3. **Start the script**:
+   - Run the script using `crosshair.py`.
+
+That's it! Once you run the script, your new crosshair should be set up and ready to use.  
+
+Hope this helps you improve your aim!  
+**- Jimmy**
