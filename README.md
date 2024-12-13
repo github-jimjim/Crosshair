@@ -1,5 +1,7 @@
 # Crosshair Customization Guide
 
+**Author:** Jimmy Luong
+
 To customize your crosshair, follow these steps:
 
 1. **Choose a random crosshair** from the web and download it to this folder.  
