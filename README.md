@@ -2,6 +2,7 @@
 
 **Author:** Jimmy Luong
 
+# Starting with this Project
 To customize your crosshair, follow these steps:
 
 1. **Choose a random crosshair** from the web and download it to this folder.  
